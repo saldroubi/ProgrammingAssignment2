@@ -1,3 +1,6 @@
+# Programming Assignment 2
+# Sam Al-Droubi
+# R Programming 
 # makeCacheMatrix creates a special "matrix", which is really a list containing a function to
 
 # set the value of the matrix
